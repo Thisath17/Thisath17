@@ -7,11 +7,12 @@ I’m passionate about automating workflows, optimizing cloud environments, and 
 
 🔧 What I Work With:
 
-Cloud platforms (AWS)
-Linux systems & automation (Ansible, Terraform)
-CI/CD Pipelines (Jenkins, Bamboo, GitLab CI)
-Containers & Orchestration (Docker)
-Infrastructure as Code (IaC) & Monitoring
+- Cloud platforms (AWS)
+- Linux systems & automation (Ansible, Terraform)
+- CI/CD Pipelines (Jenkins, Bamboo, GitLab CI)
+- Containers & Orchestration (Docker)
+- Infrastructure as Code (IaC) & Monitoring
+
 I’m always looking for ways to improve system performance, reduce downtime, and make development easier and faster.
 
 <!---
